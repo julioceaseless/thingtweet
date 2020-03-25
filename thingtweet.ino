@@ -3,7 +3,7 @@
 #include <String.h>
 
 String reset  = "AT+RST";
-String twitterAPIKey = "B2K5PVPQTRMP95K4";
+String twitterAPIKey = "B2K5PVPQTRMP4563";
 String tweetURI = "/apps/thingtweet/1/statuses/update";
 String thingSpeak = "api.thingspeak.com";
 String urlEncoded = "application/x-www-form-urlencoded";
